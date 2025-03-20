@@ -1,0 +1,1154 @@
+[
+    {
+        "provider": "Adobe",
+        "name": "Adobe Graphic Designer",
+        "slug": "adobe-graphic-designer",
+        "industry": "Arts and Humanities",
+        "domain": "History",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Adobe",
+        "name": "Adobe Content Creator",
+        "slug": "adobe-content-creator",
+        "industry": "Business",
+        "domain": "Marketing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Akamai Technologies, Inc.",
+        "name": "Akamai Customer Consulting and Support",
+        "slug": "akamai-customer-consulting-and-support",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Akamai Technologies, Inc.",
+        "name": "Akamai Network Engineering",
+        "slug": "akamai-network-engineering",
+        "industry": "Information Technology",
+        "domain": "Security",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Amazon",
+        "name": "Amazon Junior Software Developer",
+        "slug": "amazon-junior-software-developer",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Amazon Web Services",
+        "name": "DeepLearning.AI Data Engineering",
+        "slug": "data-engineering",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Amazon Web Services",
+        "name": "AWS Cloud Support Associate",
+        "slug": "aws-cloud-support-associate",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Amazon Web Services",
+        "name": "AWS Cloud Solutions Architect",
+        "slug": "aws-cloud-solutions-architect",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Amazon Web Services",
+        "name": "AWS Cloud Technology Consultant",
+        "slug": "aws-cloud-technology-consultant",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Arizona State University",
+        "name": "Arizona State University TESOL",
+        "slug": "arizona-state-university-tesol",
+        "industry": "Language Learning",
+        "domain": "Learning English",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Automatic Data Processing, Inc. (ADP)",
+        "name": "ADP Entry-Level Payroll Specialist",
+        "slug": "adp-payroll-specialist",
+        "industry": "Business",
+        "domain": "Finance",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Automatic Data Processing, Inc. (ADP)",
+        "name": "ADP Entry-Level Compensation and Benefits Analyst",
+        "slug": "adp-compensation-benefits-analyst",
+        "industry": "Business",
+        "domain": "Finance",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "CVS Health",
+        "name": "CVS Health Retail Customer Service",
+        "slug": "cvshealth-retail-customer-service",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "CVS Health",
+        "name": "CVS Health Call Center Customer Service",
+        "slug": "cvshealth-call-center-customer-service",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "CertNexus",
+        "name": "CertNexus Certified Ethical Emerging Technologist",
+        "slug": "certified-ethical-emerging-technologist",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "CertNexus",
+        "name": "CertNexus Certified Artificial Intelligence Practitioner",
+        "slug": "certified-artificial-intelligence-practitioner",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "CertNexus",
+        "name": "CertNexus Certified Data Science Practitioner",
+        "slug": "certified-data-science-practitioner",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Coursera",
+        "name": "Meta Test Specialization",
+        "slug": "meta-test-specialization",
+        "industry": "Arts and Humanities",
+        "domain": "History",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Coursera - DELETE",
+        "name": "Meta Back-End Developer",
+        "slug": "meta-back-end-developer",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Coursera - DELETE",
+        "name": "Meta Android Developer",
+        "slug": "meta-android-developer",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "DeepLearning.AI",
+        "name": "DeepLearning.AI TensorFlow Developer",
+        "slug": "tensorflow-in-practice",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "DeepLearning.AI",
+        "name": "Generative AI for Software Development",
+        "slug": "generative-ai-for-software-development",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "DeepLearning.AI",
+        "name": "DeepLearning.AI Data Engineering",
+        "slug": "data-engineering",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Dell",
+        "name": "Dell Technologies Technical Customer Support Specialist",
+        "slug": "dell-technologies-technical-customer-support-specialist",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Epic Games",
+        "name": "Epic Games Game Design",
+        "slug": "epic-games-game-design-professional-certificate",
+        "industry": "Computer Science",
+        "domain": "Design and Product",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Fractal Analytics",
+        "name": "Fractal Data Science",
+        "slug": "fractal-data-science",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Goodwill Industries International",
+        "name": "Goodwill\u00ae Career Coach and Navigator",
+        "slug": "goodwill-career-coach-and-navigator",
+        "industry": "Social Sciences",
+        "domain": "Education",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Digital Marketing & E-commerce",
+        "slug": "digital-marketing-certificate",
+        "industry": "Business",
+        "domain": "Marketing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google UX Design",
+        "slug": "google-ux-design",
+        "industry": "Computer Science",
+        "domain": "Design and Product",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Digital Marketing & E-commerce",
+        "slug": "google-digital-marketing-ecommerce",
+        "industry": "Business",
+        "domain": "Marketing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Advanced Data Analytics",
+        "slug": "google-advanced-data-analytics",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "ADVANCED"
+    },
+    {
+        "provider": "Google",
+        "name": "Google IT Automation with Python",
+        "slug": "it-automation-certificate",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Business Intelligence",
+        "slug": "business-intelligence-certificate",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "ADVANCED"
+    },
+    {
+        "provider": "Google",
+        "name": "Google IT Automation with Python",
+        "slug": "google-it-automation",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Cybersecurity",
+        "slug": "cybersecurity-certificate",
+        "industry": "Computer Science",
+        "domain": "Computer Security and Networks",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Cybersecurity",
+        "slug": "google-cybersecurity",
+        "industry": "Computer Science",
+        "domain": "Computer Security and Networks",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Advanced Data Analytics",
+        "slug": "advanced-data-analytics-certificate",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "ADVANCED"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Project Management:",
+        "slug": "project-management-certificate",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Project Management:",
+        "slug": "google-project-management",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Data Analytics",
+        "slug": "data-analytics-certificate",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google UX Design",
+        "slug": "ux-design-certificate",
+        "industry": "Computer Science",
+        "domain": "Design and Product",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Business Intelligence",
+        "slug": "google-business-intelligence",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "ADVANCED"
+    },
+    {
+        "provider": "Google",
+        "name": "Google Data Analytics",
+        "slug": "google-data-analytics",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google IT Support",
+        "slug": "it-support-certificate",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google",
+        "name": "Google IT Support",
+        "slug": "google-it-support",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Preparing for Google Cloud Certification: Cloud Engineer",
+        "slug": "cloud-engineering-gcp",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Preparing for Google Cloud Certification: Cloud Developer",
+        "slug": "google-cloud-developer",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Google Cloud Digital Leader Training",
+        "slug": "google-cloud-digital-leader-training",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Google Cloud Cybersecurity",
+        "slug": "google-cloud-cybersecurity-certificate",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Google Cloud Data Analytics",
+        "slug": "google-cloud-data-analytics-certificate",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Preparing for Google Cloud Certification: Machine Learning Engineer",
+        "slug": "preparing-for-google-cloud-machine-learning-engineer-professional-certificate",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Preparing for Google Cloud Certification: Cloud Architect",
+        "slug": "gcp-cloud-architect",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Preparing for Google Cloud Certification: Cloud Network Engineer",
+        "slug": "google-cloud-networking",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Preparing for Google Cloud Certification: Cloud DevOps Engineer",
+        "slug": "sre-devops-engineer-google-cloud",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Preparing for Google Cloud Certification: Cloud Security Engineer",
+        "slug": "google-cloud-security",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Preparing for Google Cloud Certification: Cloud Data Engineer",
+        "slug": "gcp-data-engineering",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Google Cloud",
+        "name": "Google Professional Workspace Administrator",
+        "slug": "g-suite-administration",
+        "industry": "Computer Science",
+        "domain": "Computer Security and Networks",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "HRCI",
+        "name": "HRCI Human Resource Associate",
+        "slug": "hrci-human-resource-associate",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "HubSpot Academy",
+        "name": "HubSpot Sales Representative",
+        "slug": "hubspot-sales-representative",
+        "industry": "Business",
+        "domain": "Marketing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Business Intelligence (BI) Analyst",
+        "slug": "bi-analyst",
+        "industry": "Information Technology",
+        "domain": "Data Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM IT Project Manager",
+        "slug": "ibm-it-project-manager",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Mainframe Developer",
+        "slug": "ibm-mainframe-developer",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Full-Stack JavaScript Developer",
+        "slug": "ibm-full-stack-javascript-developer",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM DevOps and Software Engineering",
+        "slug": "devops-and-software-engineering",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM and ISC2 Cybersecurity Specialist",
+        "slug": "ibm-isc2-cybersecurity-specialist",
+        "industry": "Information Technology",
+        "domain": "Security",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM iOS and Android Mobile App Developer",
+        "slug": "ibm-ios-android-mobile-app-developer-pc",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Program Manager",
+        "slug": "ibm-program-manager",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Project Manager",
+        "slug": "ibm-project-manager",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Product Manager",
+        "slug": "ibm-product-manager",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Data Analytics with Excel and R",
+        "slug": "ibm-data-analyst-r-excel",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Artificial Intelligence",
+        "slug": "ibm-artificial-intelligence",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Data Warehouse Engineer",
+        "slug": "data-warehouse-engineering",
+        "industry": "Information Technology",
+        "domain": "Data Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Data Science",
+        "slug": "ibm-data-science",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM AI Engineering",
+        "slug": "ai-engineer",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Data Engineering",
+        "slug": "ibm-data-engineer",
+        "industry": "Information Technology",
+        "domain": "Data Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM IT Support",
+        "slug": "ibm-technical-support",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Front-End Developer",
+        "slug": "ibm-frontend-developer",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Back-End Development",
+        "slug": "ibm-backend-development",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Data Management",
+        "slug": "ibm-data-manager",
+        "industry": "Information Technology",
+        "domain": "Data Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Machine Learning",
+        "slug": "ibm-machine-learning",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Back-end JavaScript Developer",
+        "slug": "backend-javascript-developer",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM IT Scrum Master",
+        "slug": "ibm-it-scrum-master",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM AI Product Manager",
+        "slug": "ibm-ai-product-manager",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Cybersecurity Analyst",
+        "slug": "ibm-cybersecurity-analyst",
+        "industry": "Information Technology",
+        "domain": "Security",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Applied DevOps Engineering",
+        "slug": "ibm-applied-devops-engineering",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM z/OS Mainframe Practitioner",
+        "slug": "ibm-z-mainframe",
+        "industry": "Information Technology",
+        "domain": "Data Management",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Full Stack Software Developer",
+        "slug": "ibm-full-stack-cloud-developer",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM Data Analyst",
+        "slug": "ibm-data-analyst",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM AI Developer",
+        "slug": "applied-artifical-intelligence-ibm-watson-ai",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "IBM",
+        "name": "IBM AI Developer",
+        "slug": "applied-artifical-intelligence-ibm-watson-ai",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "ISC2",
+        "name": "IBM and ISC2 Cybersecurity Specialist",
+        "slug": "ibm-isc2-cybersecurity-specialist",
+        "industry": "Information Technology",
+        "domain": "Security",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Institute of Certified Professional Managers",
+        "name": "ICPM Certified Supervisor",
+        "slug": "icpm-certified-supervisor",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Intuit",
+        "name": "Intuit Academy Bookkeeping",
+        "slug": "intuit-bookkeeping",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Keller Williams",
+        "name": "Keller Williams Real Estate Agent",
+        "slug": "keller-williams-real-estate-agent",
+        "industry": "Business",
+        "domain": "Entrepreneurship",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "LearnQuest",
+        "name": "IBM Mainframe Developer",
+        "slug": "ibm-mainframe-developer",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Liberty Mutual Insurance",
+        "name": "Liberty Mutual Insurance Sales Agent",
+        "slug": "libertymutual-insurancesalesagent",
+        "industry": "Business",
+        "domain": "Finance",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "MathWorks",
+        "name": "MathWorks Computer Vision Engineer",
+        "slug": "mathworks-computer-vision-engineer",
+        "industry": "Physical Science and Engineering",
+        "domain": "Electrical Engineering",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta AR Developer",
+        "slug": "meta-ar-developer",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta Back-End Developer",
+        "slug": "meta-back-end-developer",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta Database Engineer",
+        "slug": "meta-database-engineer",
+        "industry": "Information Technology",
+        "domain": "Data Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta Data Analyst",
+        "slug": "meta-data-analyst",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta iOS Developer",
+        "slug": "meta-ios-developer",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta Front-End Developer",
+        "slug": "meta-front-end-developer",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta Social Media Marketing",
+        "slug": "facebook-social-media-marketing",
+        "industry": "Business",
+        "domain": "Marketing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta Android Developer",
+        "slug": "meta-android-developer",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Meta",
+        "name": "Meta Marketing Analytics",
+        "slug": "facebook-marketing-analytics",
+        "industry": "Business",
+        "domain": "Marketing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft IT Support Specialist",
+        "slug": "microsoft-it-support-specialist",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Azure Data Engineering Associate (DP-203)",
+        "slug": "microsoft-azure-dp-203-data-engineering",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Cloud Support Associate",
+        "slug": "microsoft-cloud-support-associate",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Azure Data Scientist Associate (DP-100) Exam Prep",
+        "slug": "azure-data-scientist",
+        "industry": "Computer Science",
+        "domain": "Software Development",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Business Analyst",
+        "slug": "microsoft-business-analyst",
+        "industry": "Business",
+        "domain": "Business Strategy",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Azure Developer Associate (AZ-204) Exam Prep Professional Certificate",
+        "slug": "azure-developer-associate",
+        "industry": "Data Science",
+        "domain": "Machine Learning",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Cybersecurity Analyst",
+        "slug": "microsoft-cybersecurity-analyst",
+        "industry": "Information Technology",
+        "domain": "Security",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Azure Security Engineer Associate (AZ-500)",
+        "slug": "microsoft-azure-security-engineer-associate",
+        "industry": "Information Technology",
+        "domain": "Cloud Computing",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Public Relations and Communications Associate",
+        "slug": "microsoft-public-relations",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Power BI Data Analyst",
+        "slug": "microsoft-power-bi-data-analyst",
+        "industry": "Information Technology",
+        "domain": "Security",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft UX Design",
+        "slug": "ux-design",
+        "industry": "Computer Science",
+        "domain": "Design and Product",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Generative AI for Data Analysis",
+        "slug": "microsoft-genai-for-data-analysis",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "Microsoft",
+        "name": "Microsoft Project Management",
+        "slug": "microsoft-project-management",
+        "industry": "Business",
+        "domain": "Business Strategy",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Palo Alto Networks",
+        "name": "Palo Alto Networks Cybersecurity",
+        "slug": "palo-alto-networks-cybersecurity-fundamentals",
+        "industry": "Information Technology",
+        "domain": "Security",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Pathstream",
+        "name": "Salesforce Sales Operations",
+        "slug": "salesforce-sales-operations",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "PwC India",
+        "name": "PwC GST Taxation Executive",
+        "slug": "pwc-gst-taxation-executive",
+        "industry": "Business",
+        "domain": "Finance",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SAP",
+        "name": "SAP Technology Consultant",
+        "slug": "sap-technology-consultant",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SAS",
+        "name": "SAS Statistical Business Analyst",
+        "slug": "sas-statistical-business-analyst",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "SAS",
+        "name": "SAS Visual Business Analytics",
+        "slug": "sas-visual-business-analytics",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SAS",
+        "name": "SAS Programmer",
+        "slug": "sas-programming",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SAS",
+        "name": "SAS Advanced Programmer",
+        "slug": "sas-advanced-programmer",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "INTERMEDIATE"
+    },
+    {
+        "provider": "SV Academy",
+        "name": "Salesforce Sales Development Representative",
+        "slug": "sales-development-representative",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Salesforce",
+        "name": "Salesforce Sales Development Representative",
+        "slug": "sales-development-representative",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Salesforce",
+        "name": "Salesforce Sales Operations",
+        "slug": "salesforce-sales-operations",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM Product Manager",
+        "slug": "ibm-product-manager",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM Data Management",
+        "slug": "ibm-data-manager",
+        "industry": "Information Technology",
+        "domain": "Data Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM IT Project Manager",
+        "slug": "ibm-it-project-manager",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM Program Manager",
+        "slug": "ibm-program-manager",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM Project Manager",
+        "slug": "ibm-project-manager",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM AI Product Manager",
+        "slug": "ibm-ai-product-manager",
+        "industry": "Information Technology",
+        "domain": "Support and Operations",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM iOS and Android Mobile App Developer",
+        "slug": "ibm-ios-android-mobile-app-developer-pc",
+        "industry": "Computer Science",
+        "domain": "Mobile and Web Development",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM Business Intelligence (BI) Analyst",
+        "slug": "bi-analyst",
+        "industry": "Information Technology",
+        "domain": "Data Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "SkillUp EdTech",
+        "name": "IBM IT Scrum Master",
+        "slug": "ibm-it-scrum-master",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Tableau Learning Partner",
+        "name": "Tableau Business Intelligence Analyst",
+        "slug": "tableau-business-intelligence-analyst",
+        "industry": "Data Science",
+        "domain": "Data Analysis",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Tally Education and Distribution Services Private Limited",
+        "name": "Tally Bookkeeper",
+        "slug": "tally-bookkeeper",
+        "industry": "Business",
+        "domain": "Finance",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Unilever",
+        "name": "Unilever Digital Marketing Analyst",
+        "slug": "unilever-digital-marketing-analyst",
+        "industry": "Business",
+        "domain": "Marketing",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "Unilever",
+        "name": "Unilever Supply Chain Data Analyst",
+        "slug": "unilever-supply-chain-data-analyst",
+        "industry": "Business",
+        "domain": "Business Essentials",
+        "level": "BEGINNER"
+    },
+    {
+        "provider": "University of California, Irvine",
+        "name": "UCI Project Management",
+        "slug": "applied-project-management",
+        "industry": "Business",
+        "domain": "Leadership and Management",
+        "level": "BEGINNER"
+    }
+]
